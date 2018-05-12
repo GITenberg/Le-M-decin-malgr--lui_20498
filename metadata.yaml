@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20498#Le-M-decin-malgr--lui
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2007-01-31'
 gutenberg_type: Text
